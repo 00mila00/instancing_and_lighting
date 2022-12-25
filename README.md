@@ -10,9 +10,9 @@ See the screenshots how it looks ;)
 I also added camera to move around the houses.
 
 What can you do in this app:
-> moving around the scene
-> change houses properties e.g. scale the houses, changing its offsets in 3 dimensions (xyz), rotate them also you can do the same transformation on its roofs.
-> change lights and sky color
-> turn on and off added lights
-> change lights position in the world
+- moving around the scene
+- change houses properties e.g. scale the houses, changing its offsets in 3 dimensions (xyz), rotate them also you can do the same transformation on its roofs.
+- change lights and sky color
+- turn on and off added lights
+- change lights position in the world
 
